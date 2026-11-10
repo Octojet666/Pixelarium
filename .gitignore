@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-ssr/
+
+# Java scene tool build output and generated previews
+tools/scene-forge/build/
+tools/scene-forge/out/
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+coverage/
+.vite/
