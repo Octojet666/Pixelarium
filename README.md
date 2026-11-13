@@ -1,4 +1,4 @@
-# Pixelarium
+# Pixelarium - Releasing soon
 
 **Every pixel has a story.**
 
